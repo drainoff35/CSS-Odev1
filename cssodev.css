@@ -1,0 +1,32 @@
+body {
+    background-color: khaki;
+    font-family: sans-serif;
+    list-style-position: inside;
+}
+
+header {
+    font-size: 25px;
+    font-weight: bold;
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+body {
+    text-align: center;
+}
+ul>li>img {
+    width: 300px;
+    
+}
+p {
+    font-size: 15px;
+}
+#kirmizi{
+    color: red;
+    font-weight: bold;
+}
+.mailtel{
+    width: 80px;
+    border-radius: 20px;
+}
